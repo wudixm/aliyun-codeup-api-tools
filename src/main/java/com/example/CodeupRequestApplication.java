@@ -38,7 +38,7 @@ public class CodeupRequestApplication {
 
         if (cmd.hasOption("h")) {
             HelpFormatter formatter = new HelpFormatter();
-            formatter.printHelp(180, "java -jar codeup-request-0.0.1-SNAPSHOT.jar", "Options:", options, "", true);
+            formatter.printHelp(180, "java -jar aliyun-codeup-api-tools-0.0.1-SNAPSHOT.jar", "Options:", options, "", true);
             return;
         }
 

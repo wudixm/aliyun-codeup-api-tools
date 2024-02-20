@@ -1,8 +1,8 @@
 # aliyun-codeup-api-tools
 
 
-```angular2html
-usage: java -jar codeup-request-0.0.1-SNAPSHOT.jar [-a] [-b] [-h] [-m] [-r]
+```shell
+usage: java -jar aliyun-codeup-api-tools-0.0.1-SNAPSHOT.jar [-a] [-b] [-h] [-m] [-r]
 Options:
  -a   [orderByColumn]
       Get all repository, The supported columns are:
